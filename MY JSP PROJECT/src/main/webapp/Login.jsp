@@ -8,6 +8,14 @@
 <link href="CSS/Style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<h3>Welcome:${session_name}</h3>
+<h1>Login</h1>
+<fieldset>
+<legend><h3>Login From</h3></legend>
+<form action="LoginForm" method="post">
+Email: <input type="text" name="email1"/><br/><br/>
+Password: <input type="password" name="pass1"/><br/><br/>
+<input type="submit" value="login"/>
+</form>
+<fieldset/>
 </body>
 </html>
