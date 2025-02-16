@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+	color:white;
+	 background: linear-gradient(135deg,#153677,#4e085f);
+font-family: 'Poppins',sans-serif;
+}
+
+.field1{
+	height:30px;
+	width:23%;
+	padding:5px;
+}
+.field2{
+	height:29px;
+}
+.field{
+		height:30px;
+	width:23%;
+	padding:5px;
+}
+h1{
+	text-align: center;
+}
+
+
+
